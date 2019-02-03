@@ -14,7 +14,7 @@ logging.basicConfig(format=logger_format)
 logger = logging.getLogger('data-producer')
 logger.setLevel(logging.DEBUG)
 
-API_BASE = 'https://api.gdax.com'
+API_BASE = 'https://api.pro.coinbase.com'
 
 
 def check_symbol(symbol):
