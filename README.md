@@ -8,11 +8,14 @@ Back End:
 
 • Built a Node.js Server (Express) with jQuery to handle HTTP requests and responses
 
-• Designed a real-time data pipeline with Kafka and ZooKeeper to handle informations about the last trade from Coinbase API
+• Designed a real-time data pipeline with Kafka and ZooKeeper to handle informations about the last trade 
+from Coinbase API
 
 • Deployed a Spark server to calculate the average price of trades every 5 seconds based on MapReduce algorithm
 
-• Developed relational and NoSQL databases (HBase, Redis) to store the last trade informations and average prices of different currencies
+• Developed relational and NoSQL databases (HBase, Redis) to store the last trade informations and average 
+prices of different currencies
+
 • Created the test environment with Docker containers to examine the availability of codes 
 
 Front End:
